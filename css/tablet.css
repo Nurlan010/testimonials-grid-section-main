@@ -1,0 +1,14 @@
+@media(max-width:768px){
+#container{
+height: 180vh;
+}
+
+.left-top, .left-bottom{
+    flex-direction: column;
+}
+.left-top-box1, .left-top-box2, .left-bottom-box1, .left-bottom-box2, .left-side, .right-side{
+    width: 100%;
+}
+    
+
+    }
